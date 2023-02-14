@@ -4,10 +4,11 @@
 ,"display":"standalone"
 ,"background_color":"#ffffff"
 ,"lang":"en"
-,"scope":"/"
+,"scope":"/",
 "icons": [
   {
     "src": "icon/icon.png",
     "sizes": "any"
   }
-]}
+]
+}
